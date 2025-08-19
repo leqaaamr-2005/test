@@ -1,5 +1,6 @@
 
-from typing import Literal, Tuple, List
+from typing import Literal, Tuple, Listvhfccccccccccccccccccccccccccccccccccccc
+
 
 # Standard RNA codon table → one-letter amino acids
 CODON_TO_AA = {
